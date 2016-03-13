@@ -1,0 +1,1 @@
+# duzeru-wallpaper_1.0.0_all.deb
