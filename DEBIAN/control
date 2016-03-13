@@ -1,0 +1,10 @@
+Package: duzeru-wallpaper
+Version: 1.0.0
+Architecture: all
+Maintainer: Claudio A. Silva <claudiosilva@duzeru.org>
+Installed-Size: 5644160
+Section: x11
+Priority: optional
+Homepage: http://duzeru.org/
+Description: Packages wallpapers of duzeru
+ pacote de papeis de parede para DuZeru.
